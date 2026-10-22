@@ -1,0 +1,4 @@
+Placez ici 4 images d'exemple (une par classe) issues du jeu de TEST du dataset public :
+glioma.jpg, meningioma.jpg, notumor.jpg, pituitary.jpg
+(elles sont incluses dans neuroscan_assets.zip, voir colab/cellule_export_pour_github.py).
+N'utilisez jamais d'images de vrais patients.

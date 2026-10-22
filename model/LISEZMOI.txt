@@ -1,0 +1,5 @@
+Placez ici les 2 fichiers produits par Colab :
+  - neuroscan_effnet.keras   (environ 33 Mo)
+  - neuroscan_config.json    (noms des classes, température T, taille d'image)
+Le plus simple : exécuter colab/cellule_export_pour_github.py dans Colab,
+télécharger neuroscan_assets.zip et le décompresser à la racine du projet.
